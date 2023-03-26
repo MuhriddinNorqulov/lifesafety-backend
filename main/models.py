@@ -1,11 +1,12 @@
 from django.db import models
+from ckeditor_uploader.fields import RichTextUploadingField
 
 # Create your models here.
 
 
 class Lecture(models.Model):
     title = models.CharField(max_length=2048)
-    text = models.TextField()
+    text = RichTextUploadingField()
     youtube = models.CharField(max_length=2048)
 
     def __str__(self):

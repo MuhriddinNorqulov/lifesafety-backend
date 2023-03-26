@@ -23,7 +23,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/auth/', include('accounts.urls')),
     path('api/exams/', include('exams.urls')),
-    path("api/lecture/", include("main.urls"))
+    path("api/lecture/", include("main.urls")),
+    path('ckeditor/', include('ckeditor_uploader.urls')),
 ]
 
 
