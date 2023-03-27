@@ -37,14 +37,23 @@ class ExamItemAdmin(admin.ModelAdmin):
         return super().get_queryset(request).select_related('exam', 'group')
 
 
-@admin.register(Question)
+class VariantInlineAdmin(admin.TabularInline):
+    model = Variant
+    list_display = ["text", "is_correct"]
+
+
 class QuestionAdmin(admin.ModelAdmin):
+    model = Question
     list_display = ['exam', 'text', 'image']
     list_filter = ['exam', 'exam__semester']
     search_fields = ['text']
+    inlines = [VariantInlineAdmin]
 
     def get_queryset(self, request):
         return super().get_queryset(request).select_related('exam')
+
+
+admin.site.register(Question, QuestionAdmin)
 
 
 @admin.register(Variant)
