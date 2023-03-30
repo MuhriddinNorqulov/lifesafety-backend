@@ -2,6 +2,7 @@ from django.shortcuts import get_object_or_404
 from rest_framework import serializers
 from rest_framework.exceptions import ValidationError, NotFound
 from rest_framework.utils.serializer_helpers import ReturnDict
+from django.utils import timezone
 
 from .models import ExamItem, Exam, Question, Variant, StudentResult
 
@@ -22,9 +23,25 @@ class ExamItemSerializer(serializers.ModelSerializer):
     date_created = serializers.DateTimeField(source='exam.date_created')
     attempts = serializers.IntegerField(source='exam.attempts')
 
+    status = serializers.SerializerMethodField(read_only=True)
+
     class Meta:
         model = ExamItem
         exclude = ['group', 'exam']
+
+    def get_status(self, obj, student):
+        t1 = obj.start_date < timezone.now()
+        t2 = obj.end_date > timezone.now()
+        attempt = obj.student_attempts(student)
+        return t1 and t2 and attempt
+
+    def to_representation(self, instance):
+        student = self.context['student']
+
+        data = super().to_representation(instance)
+        data["status"] = self.get_status(data, student)
+
+        return data
 
 
 class VariantSerializer(serializers.Serializer):

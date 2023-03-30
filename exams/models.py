@@ -59,6 +59,15 @@ class ExamItem(models.Model):
                 {'start_date': _('the start time must be less than the end time')}
             )
 
+    def student_attempts(self, student):
+        attempt_list = [i.attempt for i in StudentResult.objects.filter(student=student, exam_item=self)]
+        max_attempt = 0
+        if len(attempt_list) != 0:
+            max_attempt = max(attempt_list)
+
+        return max_attempt < self.exam.attempts
+
+
 
 class Question(models.Model):
     text = models.CharField(max_length=500)

@@ -41,6 +41,14 @@ class StudentExamAPIView(ReadOnlyModelViewSet):
             queryset = queryset.prefetch_related('exam__question_set', 'exam__question_set__variant_set')
         return queryset
 
+    def get_serializer_context(self):
+        context = super().get_serializer_context()
+
+        # Add the request object to the context
+        context['student'] = self.request.user
+
+        return context
+
 
 class StudentResultAPIView(ListAPIView):
     serializer_class = StudentResultSerializer
