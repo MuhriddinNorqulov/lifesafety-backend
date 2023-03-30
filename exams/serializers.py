@@ -29,19 +29,20 @@ class ExamItemSerializer(serializers.ModelSerializer):
         model = ExamItem
         exclude = ['group', 'exam']
 
-    def get_status(self, obj, student):
+    def get_status(self, obj):
+        student = self.context['student']
         t1 = obj.start_date < timezone.now()
         t2 = obj.end_date > timezone.now()
         attempt = obj.student_attempts(student)
         return t1 and t2 and attempt
 
-    def to_representation(self, instance):
-        student = self.context['student']
-
-        data = super().to_representation(instance)
-        data["status"] = self.get_status(data, student)
-
-        return data
+    # def to_representation(self, instance):
+    #     student = self.context['student']
+    #
+    #     data = super().to_representation(instance)
+    #     data["status"] = self.get_status(data, student)
+    #
+    #     return data
 
 
 class VariantSerializer(serializers.Serializer):
