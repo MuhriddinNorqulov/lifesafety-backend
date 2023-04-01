@@ -11,6 +11,13 @@ class LectureListApiView(generics.ListAPIView):
     serializer_class = LectureSerializer
     queryset = Lecture.objects.all()
 
+    def get_queryset(self):
+        body = self.request.data
+        lecture_type = body["type"]
+        if lecture_type == "practice":
+            return Lecture.objects.filter(type="practice")
+        return Lecture.objects.filter(type="lecture")
+
 
 # class LectureDetailApiView(APIView):
 #

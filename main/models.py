@@ -5,6 +5,12 @@ from ckeditor_uploader.fields import RichTextUploadingField
 
 
 class Lecture(models.Model):
+
+    TYPE = (
+        ('lecture', 'lecture'),
+        ('practice', 'practice')
+    )
+    type = models.CharField(max_length=16, choices=TYPE, default='lecture', null=True)
     title = models.CharField(max_length=2048)
     text = RichTextUploadingField()
     youtube = models.CharField(max_length=2048, blank=True, null=True)
