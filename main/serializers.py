@@ -31,7 +31,7 @@ class LectureDetailSerializer(serializers.ModelSerializer):
 
     def get_resources(self, obj):
         data = Resource.objects.filter(lecture=obj).order_by('id')
-        return ResourceSerializer(data, many=True)
+        return ResourceSerializer(data, many=True).data
 
     def get_questions(self, obj):
         data = ControlQuestion.objects.filter(lecture=obj).order_by('id')
