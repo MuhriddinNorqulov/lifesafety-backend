@@ -1,5 +1,6 @@
 from django.db import models
 from ckeditor_uploader.fields import RichTextUploadingField
+from django.conf import settings
 
 # Create your models here.
 
@@ -29,3 +30,8 @@ class Resource(models.Model):
     title = models.CharField(max_length=255)
     url = models.CharField(max_length=2048)
     image = models.ImageField(upload_to="resource")
+
+
+# class Result(models.Model):
+#     student = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+
