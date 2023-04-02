@@ -32,7 +32,7 @@ class Exam(models.Model):
     semester = models.PositiveSmallIntegerField(choices=SEMESTERS)
 
     def __str__(self):
-        return self.get_exam_type_display() + " " + self.title
+        return self.title
 
     def save(self, *args, **kwargs):
         self.allotted_time = round(self.allotted_time, 2)

@@ -27,11 +27,11 @@ class ExamItemAdmin(admin.ModelAdmin):
 
     @admin.display
     def exam_type(self, obj):
-        return obj.exam.get_exam_type_display()
+        return obj.exam.title
 
     @admin.display
     def semester(self, obj):
-        return obj.exam.get_semester_display()
+        return obj.exam.semester
 
     def get_queryset(self, request):
         return super().get_queryset(request).select_related('exam', 'group')
