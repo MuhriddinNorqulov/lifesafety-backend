@@ -19,22 +19,24 @@ class ExamAdmin(admin.ModelAdmin):
     ]
 
 
-@admin.register(ExamItem)
-class ExamItemAdmin(admin.ModelAdmin):
-    list_display = ['exam_type', 'semester', 'group', 'start_date', 'end_date']
-    list_display_links = list_display
-    list_filter = ['exam__exam_type', 'exam__semester', 'group']
+# @admin.register(ExamItem)
+# class ExamItemAdmin(admin.ModelAdmin):
+#     list_display = ['exam_type', 'semester', 'group', 'start_date', 'end_date']
+#     list_display_links = list_display
+#     list_filter = ['exam__exam_type', 'exam__semester', 'group']
+#
+#     @admin.display
+#     def exam_type(self, obj):
+#         return obj.exam.title
+#
+#     @admin.display
+#     def semester(self, obj):
+#         return obj.exam.semester
+#
+#     def get_queryset(self, request):
+#         return super().get_queryset(request).select_related('exam', 'group')
 
-    @admin.display
-    def exam_type(self, obj):
-        return obj.exam.title
-
-    @admin.display
-    def semester(self, obj):
-        return obj.exam.semester
-
-    def get_queryset(self, request):
-        return super().get_queryset(request).select_related('exam', 'group')
+admin.site.register(ExamItem)
 
 
 class VariantInlineAdmin(admin.TabularInline):
