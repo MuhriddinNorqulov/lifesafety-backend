@@ -4,7 +4,7 @@ import dotenv
 dotenv.load_dotenv()
 
 debug = bool(os.environ.get("DEBUG", False))
-DEBUG = debug
+DEBUG = True
 if debug:
     from .settings_debug import *
 else:
