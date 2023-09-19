@@ -3,8 +3,8 @@ import dotenv
 
 dotenv.load_dotenv()
 
-debug = bool(os.environ.get("DEBUG", False))
-DEBUG = True
+debug = os.environ.get("DEBUG", False) == 'True'
+DEBUG = debug
 if debug:
     from .settings_debug import *
 else:
