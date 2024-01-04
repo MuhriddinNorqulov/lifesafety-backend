@@ -1,0 +1,1899 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "5w1rqbgu7gdh66nlf3shy2v4cb7n6lhj",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pwHCa:CtU6u4GVLYJfxJAkvUUGQwR0Me150qBzaXHS1hmoSTA",
+    "expire_date": "2023-05-23T06:52:00Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8rdggc732ebugsbhej45tcboyhycdajw",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pvI61:JAn4jYpTHKYEleA0KGuEWUwKrw9Eo2CXdBwpyMrl6SQ",
+    "expire_date": "2023-05-20T13:37:09Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8yczf634uj514lp06u7eitx4fidab896",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pus8k:_10vGd1z_j0ANeP-_7CXLQ5PBm-fcQgQ_SO4uIref_4",
+    "expire_date": "2023-05-19T09:54:14Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9fpk0cexy35ixvwrh17ydkzg3goomeso",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1ptmPp:M6VG_BWF-MECWcCyOhRnp5CFZNkELTb2hN8zYYzI6SQ",
+    "expire_date": "2023-05-16T09:35:21Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cm6l5jtsn8n3r9o89pvycpr65vawj9vl",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1poI9A:M-vKOON69U0ri4vvERsl8Ube0jwklclC7aGZWK8DYBU",
+    "expire_date": "2023-05-01T06:15:28Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "e4dy4cwr499rini4qr03hkx5jfqrb58x",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pv9Ze:eRYvSWr_Qb8ZXVC2R7eJWAoIZkRYH9r-lfISTzRRN5Y",
+    "expire_date": "2023-05-20T04:31:10Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fmyjjhwrmxsyxzsd0plsoqqixoamxzyw",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pjdfY:mV3scMDOmeWxVXn9z21Fg5JrrWUXpvmUsV6kBEaIHqk",
+    "expire_date": "2023-04-18T10:13:40Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gz6qqm7jc9hk3e6czgdqcwbqfdkpqi13",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pkMqt:hCz1RwwARcjyiJ0TBk1R2Rzxh7VNVhqzqNtNCJYNklU",
+    "expire_date": "2023-04-20T10:28:23Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "h38fwype4skz4picpsbtg9d6uwn1oz6g",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pjdkP:I1DsGY6T7FaJ32wWuTMtBm1_1nG5xvW9T3wGLRVmGA4",
+    "expire_date": "2023-04-18T10:18:41Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hu1xl5zimxpxgjbfn3y6pbf5nbw0l9wh",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pje8m:r38DY6rmo8zOvVwqwGFVDwHg_mtlVm7mBbZn73D5GlU",
+    "expire_date": "2023-04-18T10:43:52Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "imy3ueafk4cnfmdi3k1ki2wm18cvog7l",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1q2QaL:QO9ctMlSBtNkOtZKZxfzwJyRm7thmHqz_ZXH8CYxka8",
+    "expire_date": "2023-06-09T06:05:57Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ojgkiargevmq3wg93zru5qyafi1jycpe",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1puTk2:C_OjFtNoA7JsWlB7ggIvv5gf319dLDCJkipS66u0-Ec",
+    "expire_date": "2023-05-18T07:51:06Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qndrx6ggcg2yvbp1ncoh9387tmh14zww",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1ptO8J:2YTveK4QWi614OSmJrNIEKCRT5ME072RYOTbrF4T4hs",
+    "expire_date": "2023-05-15T07:39:39Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tvsx05k37m8afgs0zid3ffsz7q9txmn7",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1puTk2:C_OjFtNoA7JsWlB7ggIvv5gf319dLDCJkipS66u0-Ec",
+    "expire_date": "2023-05-18T07:51:06Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w26f98da3kkjgpikmko2np8s7c0og2fr",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1poday:aWc8WMVOEhjnHF911eWDyYReKl-BVezqwg9slSfi1xk",
+    "expire_date": "2023-05-02T05:09:36Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xwwf051r6lxorlmac60i6mw7lultk1j3",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1q1p1y:tbaptaMh7PZBZpxwNyB6bDu81vhu0LBLvmjDF7obFbk",
+    "expire_date": "2023-06-07T13:59:58Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yru96s07uwm87731rq3s6kuv27krbfju",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1q0mt4:-Q4AzmtYitme8G_m14OX8YDwTFYekiKmThsqeC0OZsI",
+    "expire_date": "2023-06-04T17:30:30Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zxeqq7kcdwbxjtlg2bxggpfb469trgfc",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEgr-LSvd9AhpmpVA0kpV0Z_92QdKHbe865b5Fg30raO69pIXERWpx-twz45DoAPaDem8RWt3XJcijyoF3eGvHrerh_BwV6GXW0Edj5jEDnEMi4PFltNYCJjN5oT1EFA45DpojR-9mgUgDT7BwQi88X7sU4aA:1pogQB:5twDGVvZp26ZE8wfRYwKiR8eUBEcUDTmOb5jTTdYLm8",
+    "expire_date": "2023-05-02T08:10:39Z"
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4bq1u6RsuvMokHC6TgN95t$I9IRTF3Nvj/zFW8Dz0EqcHLJMMU1dyXLx4R0a7L0Dy0=",
+    "last_login": "2023-05-26T20:09:57Z",
+    "is_superuser": "1",
+    "is_active": "1",
+    "date_joined": "2023-04-04T10:13:25Z",
+    "group": "",
+    "email": "admin@gmail.com",
+    "is_staff": "1",
+    "first_name": "",
+    "last_name": "",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$aQoaFLpJVH7tvkWoUSXWHv$yFVaazkpp/dXCHVEQAO/fXNbtzu90JMIjENaEm+kDmw=",
+    "last_login": "2023-05-08T17:02:07Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-08T17:02:06Z",
+    "group": "1",
+    "email": "dfd@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$yf7MzrdKrj5nqnqAzKuTfT$Q+q+X8PcZ1xyy9tE07+HioaeeetR1VF4V8fILUqnOwg=",
+    "last_login": "2023-05-08T17:36:31Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-08T17:36:30Z",
+    "group": "1",
+    "email": "dgfdgf@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$kRJiWJ5MQHH2LoL0WGDNYU$FdscDdUKwULsr3G2viwE4MrORpYuHW0xy/uninyxx1o=",
+    "last_login": "2023-05-08T18:32:30Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-08T18:32:29Z",
+    "group": "1",
+    "email": "fghjhhg@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$U29pKboAMhZw3Epgbnj4hf$x3RlVWv4PCtCihEcOHWofSbAGvlHUgRoWwSI1rPPIIw=",
+    "last_login": "2023-05-08T16:59:07Z",
+    "is_superuser": "0",
+    "is_active": "0",
+    "date_joined": "2023-04-04T10:15:22Z",
+    "group": "1",
+    "email": "test@gmail.com",
+    "is_staff": "0",
+    "first_name": "Javohir",
+    "last_name": "Qayumov",
+    "phone_number": "+998901234567",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$aC4Q0AMu993PJRW2yvskI4$+kuc7b2ALPt8QDBJDTXOIdEvp0UTHIxRD2aN9jLIWpM=",
+    "last_login": "2023-05-09T06:38:59Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T06:38:58Z",
+    "group": "1",
+    "email": "fgfgf@gmail.com",
+    "is_staff": "0",
+    "first_name": "f",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$GdhGJsq84HQ8WX6xYumZvE$0l3yi1QleqiTNT+eUn/V+CyTQK7mN9lyXZtHWcmFMLI=",
+    "last_login": "2023-05-09T06:40:13Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T06:40:12Z",
+    "group": "1",
+    "email": "nmnn@gmail.com",
+    "is_staff": "0",
+    "first_name": "khk",
+    "last_name": "bkjh",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$NHoN3CSfTQQZxYPchwv0qL$aVdURdKPX6AYhXyUO4teG9WSSnqllYoU28choUOHwNA=",
+    "last_login": "2023-05-09T06:41:37Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T06:41:36Z",
+    "group": "1",
+    "email": "ghghghgjjk@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$f357ZeU1VdCI44FCcidV7Y$IrjC2qHsgtB/9x1vc28VxxdDMf6hF4tG+OkfV7kPepY=",
+    "last_login": "2023-05-09T07:12:18Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T07:12:17Z",
+    "group": "1",
+    "email": "gfdg@gmail.com",
+    "is_staff": "0",
+    "first_name": "jhgjh",
+    "last_name": ",jhkj",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$S2gpPFWGDSPnDF9mdJH6b6$oYYmvM4uHp7cb58C514oGN2BegEiVfDpUThl37Y+2dk=",
+    "last_login": "2023-05-09T07:18:18Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T07:18:17Z",
+    "group": "1",
+    "email": "ggfgffdfsd@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$NWZxB29CKMRJu9rMgv4zTi$/n5w1KCJQJhQzGIcude1Jhwl1daxKqfmLrG3KhpB1Hg=",
+    "last_login": "2023-05-09T07:19:27Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T07:19:27Z",
+    "group": "1",
+    "email": "dfdbdghtr@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4zlsz93wiD8lMHQZHLq7nN$IbYcMCYUXiJcayQeTbEtDC1zB7LZTvNo9nsxXL2QthI=",
+    "last_login": "2023-05-09T12:49:34Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-09T12:49:33Z",
+    "group": "1",
+    "email": "qqq@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$luBu62K8tKZIXzkBiBeCsM$+FhciGUm5wqZ+JqFvya64Kr0vu62s53Ak3QkLhTqPEg=",
+    "last_login": "2023-05-10T06:27:09Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-10T06:27:08Z",
+    "group": "1",
+    "email": "fdgfggfhfdd@gmail.com",
+    "is_staff": "0",
+    "first_name": "w",
+    "last_name": "w",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4jXyazLTgRloSW4aXeCvA2$YYwfldhpfoW/sC3wcewDPHHJl4LHpUffMJdoslkmB4U=",
+    "last_login": "2023-05-10T08:31:54Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-10T08:31:53Z",
+    "group": "1",
+    "email": "jjgjj@gmail.com",
+    "is_staff": "0",
+    "first_name": "gfjhg",
+    "last_name": "fhg",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$90kDBejJqIo5FuccEFCJ52$JdPHWwMu2Wf0euN+k2skKufgbv6QJkshPORVPhBFrSE=",
+    "last_login": "2023-05-12T10:32:51Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-12T10:32:51Z",
+    "group": "1",
+    "email": "gggfg@gmail.com",
+    "is_staff": "0",
+    "first_name": "qrdeweef",
+    "last_name": "wqqwedq",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$ahtjpMjm9dSjXyJHIccxTO$iZzP28HE1u2SI1Q5eeTOZvFGiGjVgFB35jVuQboldlc=",
+    "last_login": "2023-05-12T12:12:24Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-12T12:12:23Z",
+    "group": "1",
+    "email": "ggvhjkgh@gmail.com",
+    "is_staff": "0",
+    "first_name": "e",
+    "last_name": "e",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$LfQJfUgpcZKpLfdb5CXv91$IuUE8a0WmB7PNnoEuGIukPy5mPIB7UPhIo9+jVL2BWQ=",
+    "last_login": "2023-05-13T10:13:09Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-13T10:13:08Z",
+    "group": "1",
+    "email": "fghfghg@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$j1fpGuCCdnVuOAnya2uWCY$uoYFSJE4PA3DB1jSlLlLcLBRBi2Yeh+/MuNpM56trWA=",
+    "last_login": "2023-05-13T15:25:32Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-13T15:25:31Z",
+    "group": "1",
+    "email": "testfgf@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$LVw5TJfIfjqhkSZqrIgslL$dffH56beZidi5SRAPrsVgaBTdUJzFyTWDV/oi4ENEM8=",
+    "last_login": "2023-05-15T08:10:31Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-15T08:10:30Z",
+    "group": "1",
+    "email": "trhtyryhety@gmail.com",
+    "is_staff": "0",
+    "first_name": "e",
+    "last_name": "e",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$1cThdkjgHKbu5cfRs9anUD$9NZ3LM+qxtXjiP/GTDmqgNGpsj4SzpGiQ1fLkPgXGb0=",
+    "last_login": "2023-05-15T09:11:44Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-15T09:11:44Z",
+    "group": "1",
+    "email": "fgfgfffff|fffff@gmail.com",
+    "is_staff": "0",
+    "first_name": "f",
+    "last_name": "f",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$PilgNv6VLmbeeQWFUATRYn$K25DB2mPUlVZFX5sX3377aCVlJk0Db09k1Xp8jWE6nI=",
+    "last_login": "2023-05-15T09:14:39Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-15T09:14:38Z",
+    "group": "1",
+    "email": "fhf@gmail.com",
+    "is_staff": "0",
+    "first_name": "jgjg",
+    "last_name": "kjhkjh",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$SJRIBiIXM7LFRcLcBrGOZV$LgfvA/RtXzFBzIcSmzqHCyh9oUdn5/msqFURFdyoMQY=",
+    "last_login": "2023-05-16T08:30:49Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-16T08:30:49Z",
+    "group": "1",
+    "email": "efewfd@gmail.ru",
+    "is_staff": "0",
+    "first_name": "dfg",
+    "last_name": "edwsf",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$kskwgYfs329fvypv6iS6gM$7XAIKWCf2Yy7I7knxlrzI+5nmjnFGrfGazlH9+UmnTE=",
+    "last_login": "2023-05-21T09:03:12Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-21T09:03:11Z",
+    "group": "1",
+    "email": "fgfgsdsdss@gmail.com",
+    "is_staff": "0",
+    "first_name": "f",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$HnsZxRxwLn5IwLb5l7Bx9s$w5Efhy+ldRe+P3gEfURE4ZEXI4Ppv0sM1v0YFPCDkrE=",
+    "last_login": "2023-05-21T12:08:30Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-21T12:08:29Z",
+    "group": "1",
+    "email": "kgkjhkjhk@gmail.com",
+    "is_staff": "0",
+    "first_name": "g",
+    "last_name": "g",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$HPDkiyfgy8tITetRwyKOq1$2ctbxfZrEWlZ2HZ485rUltsBIfXRJMd+TUwd76Qu8FY=",
+    "last_login": "2023-05-26T11:45:29Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-21T17:32:20Z",
+    "group": "1",
+    "email": "m@gmail.com",
+    "is_staff": "0",
+    "first_name": "a",
+    "last_name": "a",
+    "phone_number": "998944840604",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$qFMSCIi8iQARbJzbnbpnqI$rbVVIvifDQUAdTbltttiRLE0sJ7P4+V7nNu2Qh+KHKc=",
+    "last_login": "2023-05-22T05:52:02Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-22T05:52:01Z",
+    "group": "1",
+    "email": "fhfh@gmail.com",
+    "is_staff": "0",
+    "first_name": "jhjh",
+    "last_name": "fhgf",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$GaVan4ycGq2hwZ34WUvcq6$18hdw8Q7c8rTGTTgl/do0Xgue7PF1JwENhtWBapEpdo=",
+    "last_login": "2023-05-22T09:48:07Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-22T09:48:06Z",
+    "group": "1",
+    "email": "fgfggfg@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Yln1LCVk9j8ctmUs7vQdZk$306AOC5jYin9AxGQ1GEDbRCGuhndH02AXgl4/GeHK4g=",
+    "last_login": "2023-05-22T11:03:54Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-22T11:03:53Z",
+    "group": "1",
+    "email": "edrgrdegr@gmail.com",
+    "is_staff": "0",
+    "first_name": "dfrgvd",
+    "last_name": "dgvdefg",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$adP45nAfSGyy9Kdautxkz0$x25lT+oWDmq+Sa+9ptbooJSYLOzKv74g9v7PYTfL4ec=",
+    "last_login": "2023-05-22T11:31:14Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-22T11:31:13Z",
+    "group": "1",
+    "email": "fhjghjhjg@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$RdOE1L2j9EAZZYkFhSgack$oqOfAIjfrvuxCjdXcPlYtUkoHT3ggQ5eHlM6mRVpMxg=",
+    "last_login": "2023-05-22T17:42:20Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-22T17:42:19Z",
+    "group": "1",
+    "email": "gkgkjgkj@gmail.com",
+    "is_staff": "0",
+    "first_name": "f",
+    "last_name": "f",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$6cGZFVLURL0eJamwXAr6b0$6vCNj04zdJKoN/hXPTOEPtSt9D+izkTHEEhXxLeJ1c0=",
+    "last_login": "2023-05-23T06:01:02Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-23T06:01:01Z",
+    "group": "1",
+    "email": "dfdfdf@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$DJmahXDZWjAM1aZwvOoAT8$UqejrXJCwbzK8bnK2NeOtbOCEjoBBM223drMeYMSOmg=",
+    "last_login": "2023-05-23T13:01:16Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-23T13:01:15Z",
+    "group": "1",
+    "email": "ffghfgh@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wlR83dEPPNfCYwFymktaR5$E3KMq8fd3QC3sUaW4vNlZECEMulv7mGHz3QlqtY/xtM=",
+    "last_login": "2023-05-23T16:38:53Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-23T16:38:52Z",
+    "group": "1",
+    "email": "j@gmail.com",
+    "is_staff": "0",
+    "first_name": "dfsd",
+    "last_name": "fdg",
+    "phone_number": "998998645067",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$4aCsD2UucfOiQ8t2dAFJEu$+iFmLmqQEjx9eTs2EVcdt0616DGRLOsZFp6xniSpRdM=",
+    "last_login": "2023-05-23T19:07:31Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-23T19:07:30Z",
+    "group": "1",
+    "email": "fdgfd@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$mTNqdaOnniA8C6X3IvKaen$f5pqeC+r5IAlbc//3Fqpf09KdVnXGTmuKcLhH9209Ck=",
+    "last_login": "2023-05-24T07:29:51Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-24T07:29:51Z",
+    "group": "1",
+    "email": "ghgghhgh@gmail.com",
+    "is_staff": "0",
+    "first_name": "h",
+    "last_name": "g",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$B9iEyYRHjdQcfp34xmxIZ1$J/oDPGqrRHjTh0PIiSuMyuWhSeFcDvWwnZ+vgXawgEo=",
+    "last_login": "2023-05-24T13:35:45Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-24T13:35:44Z",
+    "group": "1",
+    "email": "J@gmail.com",
+    "is_staff": "0",
+    "first_name": "fdgsdf",
+    "last_name": "asdfg",
+    "phone_number": "998998645067",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$SfUm1iX1ZJWT7gW24aAbyV$cn+ARlMiW6WIMwX2H7k76kau7EMtT3HNT9mbw+MOW44=",
+    "last_login": "2023-05-29T04:57:55Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-24T14:06:03Z",
+    "group": "1",
+    "email": "javohir@gmail.com",
+    "is_staff": "0",
+    "first_name": "javohir",
+    "last_name": "Qayumov",
+    "phone_number": "998998645067",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$wQu724DL6j55iKyXCw5BKZ$l1kzp6pRmorX3wAs4vqFcqasten8iI73whADAglalWw=",
+    "last_login": "2023-05-25T16:32:58Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-25T16:32:57Z",
+    "group": "1",
+    "email": "dfddfd@gmail.com",
+    "is_staff": "0",
+    "first_name": "d",
+    "last_name": "d",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$cluGgiuJvv3jwBFRz6FZhJ$VQJV+WkhLYAsVuYt6Va7BgZEiXq5c4G/ihX7ZVsetaA=",
+    "last_login": "2023-05-26T06:25:22Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-26T06:25:21Z",
+    "group": "1",
+    "email": "vbncgn@gmail.com",
+    "is_staff": "0",
+    "first_name": "e",
+    "last_name": "e",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$342T2tHTMhPJFpvpU3axqo$AnHfvsgSGJ0LZIz49ODWLYHpR7DcNGvHSBXCyIfNt30=",
+    "last_login": "2023-05-26T06:56:32Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-26T06:56:31Z",
+    "group": "1",
+    "email": "hhhhjhjhhhkkjlhfhyr@gmail.com",
+    "is_staff": "0",
+    "first_name": "h",
+    "last_name": "b",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$rP6B7tswywWbFXU8BBDTqE$UTsKKCR+gQ1RXIlMNvH8N5gD6LAThe4fBpQwnv1p4AA=",
+    "last_login": "2023-05-26T16:44:58Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-26T16:44:57Z",
+    "group": "1",
+    "email": "Ggcgjjjjhv@gmail.com",
+    "is_staff": "0",
+    "first_name": "G",
+    "last_name": "V",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$fjug6OzVhg8SkkzkSUvcbI$HrbunPxYJJBNwJ+pBQa4R0iNoukabQC/PUEKgxm9F+c=",
+    "last_login": "2023-05-26T18:54:14Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-26T18:54:13Z",
+    "group": "1",
+    "email": "ffgfgfgfgfgfgf@gmail.com",
+    "is_staff": "0",
+    "first_name": "s",
+    "last_name": "s",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$m904AQRjMiAviIwkySZIIg$CkCGw1ac066FeAu7ozrJkng+1sRlQZR1qg0jH30lCqI=",
+    "last_login": "2023-05-27T09:16:17Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-27T09:16:16Z",
+    "group": "1",
+    "email": "sdssds@gmail.com",
+    "is_staff": "0",
+    "first_name": "w",
+    "last_name": "w",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "accounts.customuser",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$ibPrn54X6LEwrNXyoodn93$R14X5aLSjHK+lbGIkYba77f1WgwaMdKN5oCroNkXKr4=",
+    "last_login": "2023-05-30T11:33:40Z",
+    "is_superuser": "0",
+    "is_active": "1",
+    "date_joined": "2023-05-30T11:33:39Z",
+    "group": "1",
+    "email": "dfdfd@gmail.com",
+    "is_staff": "0",
+    "first_name": "e",
+    "last_name": "e",
+    "phone_number": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "groups.classgroup",
+  "pk": "1",
+  "fields": {
+    "name": "группа"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "1",
+  "fields": {
+    "title": "Раздел 1 Электротравматизм",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-04-04T10:16:30Z",
+    "attempts": "2",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "10",
+  "fields": {
+    "title": "Раздел 5 Оценить состояние пострадавшего",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "info",
+    "date_created": "2023-05-08T17:11:09Z",
+    "attempts": "2",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "11",
+  "fields": {
+    "title": "Раздел 6 Есть ли дыхание.",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "info",
+    "date_created": "2023-05-08T17:21:29Z",
+    "attempts": "2",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "12",
+  "fields": {
+    "title": "Раздел 7 Отсутствует дыхание у пострадавшего",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-05-08T18:12:40Z",
+    "attempts": "2",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "13",
+  "fields": {
+    "title": "Раздел 8.Сердечно-легочная реанимация",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-05-08T18:17:22Z",
+    "attempts": "1",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "14",
+  "fields": {
+    "title": "Раздел 9 Признаки жизни",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-05-08T18:27:55Z",
+    "attempts": "1",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "7",
+  "fields": {
+    "title": "Раздел 2 Электротравма",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-05-08T12:14:08Z",
+    "attempts": "1",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "8",
+  "fields": {
+    "title": "Раздел  3 Осмотр                           места происшествия",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "info keys3",
+    "date_created": "2023-05-08T12:26:47Z",
+    "attempts": "1",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.exam",
+  "pk": "9",
+  "fields": {
+    "title": "Раздел 4  Можно ли выключить источники энергии?",
+    "exam_type": "c",
+    "allotted_time": "10.0",
+    "desc": "",
+    "date_created": "2023-05-08T12:42:48Z",
+    "attempts": "2",
+    "semester": "1"
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "1",
+  "fields": {
+    "exam": "1",
+    "group": "1",
+    "start_date": "2023-05-08T12:43:05Z",
+    "end_date": "2023-07-08T12:43:03Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "10",
+  "fields": {
+    "exam": "14",
+    "group": "1",
+    "start_date": "2023-05-08T12:43:05Z",
+    "end_date": "2023-07-08T12:43:05Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "3",
+  "fields": {
+    "exam": "7",
+    "group": "1",
+    "start_date": "2023-05-07T12:16:26Z",
+    "end_date": "2023-12-08T12:16:28Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "4",
+  "fields": {
+    "exam": "8",
+    "group": "1",
+    "start_date": "2023-05-08T12:26:54Z",
+    "end_date": "2023-06-08T12:26:56Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "5",
+  "fields": {
+    "exam": "9",
+    "group": "1",
+    "start_date": "2023-05-08T12:43:03Z",
+    "end_date": "2023-07-08T12:43:05Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "6",
+  "fields": {
+    "exam": "10",
+    "group": "1",
+    "start_date": "2023-05-08T17:12:05Z",
+    "end_date": "2024-04-04T17:12:25Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "7",
+  "fields": {
+    "exam": "11",
+    "group": "1",
+    "start_date": "2023-05-08T17:21:40Z",
+    "end_date": "2024-04-04T17:21:54Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "8",
+  "fields": {
+    "exam": "12",
+    "group": "1",
+    "start_date": "2023-05-08T12:43:05Z",
+    "end_date": "2023-07-08T12:43:03Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.examitem",
+  "pk": "9",
+  "fields": {
+    "exam": "13",
+    "group": "1",
+    "start_date": "2023-05-08T12:43:05Z",
+    "end_date": "2023-07-08T12:43:05Z",
+    "desc": ""
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "46",
+  "fields": {
+    "text": "По каким признакам можно определить наличие электротравмы у человека? Выберите правильные ответы. 1. Кровотечение. 2. Рефлекторное сокращение мышц. 3. Ушиб мягких тканей. 4. Судороги с потерей сознания. 5. Хруст в костях. 6. Потеря сознания сочетается с нарушениями дыхательной и сердечной функции (аритмия, тахикардия).",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "47",
+  "fields": {
+    "text": "Выберите воздействия электрического тока на организм человека. Выберите правильные ответы.  1. Термическое. 2. Экзотическое. 3. Электролитическое.  4. Механическое.  5. Местное или специальное 6. Биологическое.",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "48",
+  "fields": {
+    "text": "Как делятся электротравмы по характеру повреждений? Выберите правильные ответы.  1. Местные электротравмы. 2. Общие электротравмы. 3. Смешанные электротравмы. 4. Специальные электротравмы. 5. Анатомические электротравмы. 6. Специфические электротравмы.",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "49",
+  "fields": {
+    "text": "Какие внешние проявления у электротравм? Выберите правильные ответы.   1. Спутанность сознания 2. Боли в области желудка. 3. Нарушения сердечного ритма. 4. Боли в конечностях. 5. Судороги. 6. Сонливость. 7. Потеря памяти на момент травмы. 8. Нарушения зрения.",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "50",
+  "fields": {
+    "text": "От каких факторов зависит сила поражения и тяжесть от воздействия электрического тока на организм человека? Выберите правильные ответы.  1. Силы тока. 2. Род и частота тока (переменный, постоянный). 3. Время воздействия. 4. Биологические параметры человека. 5. Путь тока через тело человека. 6. Психологическое состояние человека. 7. Состояние костей. 8. Температура в помещении.",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "51",
+  "fields": {
+    "text": "Назовите виды местных электротравм. Выберите правильные ответы.  1. Электрический ожог. 2. Электрический знак. 3. Металлизация кожи. 4. Электрический удар. 5. Электроофтальмия. 6. Механические повреждения. 7. Внутренние разрывы органов.",
+    "image": "",
+    "exam": "1"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "53",
+  "fields": {
+    "text": "Как можно освободить человека от воздействия тока? Выберите правильные ответы: 1.\tОтключить установку от действия тока выключив рубильник 2.\tОстановить кровотечение 3.\tВыкрутить предохранители 4.\tПерерубить провод любым острым предметом 5.\tРазъединить штепсельное соединение 6.\tЛюбым длинным предметом выбить провод из рук 7.\tПерерубить провода инструментом с изолированными ручками 8.\tВыбить провод из рук пострадавшего любым токонепроводящим предметом 9.\tОттянуть пострадавшего за свободную руку от",
+    "image": "",
+    "exam": "9"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "54",
+  "fields": {
+    "text": "По каким параметрам можно ценить состояние пострадавшего от действия тока. Выберите правильные ответы: 1.\tПроверить наличие пульса на запястье и шеи.  2.\tВнешний вид языка-если синюшный, значит человек в состоянии клинической смерти. 3.\tПроверить зрачки: слишком широкие зрачки будут указывать на то, что кровоснабжение мозга пострадавшего сильно ухудшилось. 4.\tПроверить белки глаз. Если цвет изменился на голубой-нет кровоснабжения. 5.\tПроверить наличие дыхания. 6.\tПроверить наличие во рту инородн",
+    "image": "",
+    "exam": "10"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "55",
+  "fields": {
+    "text": "Раздражающее действие тока на ткани живого организма может быть  1. Прямым. 2. Рефлекторным. 3. Раздраженным. 4. Травмирующим.",
+    "image": "",
+    "exam": "7"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "56",
+  "fields": {
+    "text": "Электрический ожог, электрический знак, металлизация кожи, механические повреждения относятся к: 1. Местные электротравмы. 2. Общие электротравмы. 3. Смешанные электротравмы.",
+    "image": "",
+    "exam": "7"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "57",
+  "fields": {
+    "text": "К общим электротравмам относятся:  1. Электрический удар. \t2. Местные электротравмы. 3. Смешанные электротравмы. 4. Электроофтальмия.",
+    "image": "",
+    "exam": "7"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "58",
+  "fields": {
+    "text": "Спутанность сознания, нарушения сердечного ритма, судороги, сонливость, потеря памяти на момент травмы, а также нарушения зрения-эти проявления являются признаками- 1. Электротравмы. 2. Электроофтальмии. 3. Ушиба мягких тканей. 4. Утопления.",
+    "image": "",
+    "exam": "7"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "59",
+  "fields": {
+    "text": "Опишите состояние организма после воздействия электрического тока. Выберите правильные ответы: 1.\tПовреждение головного мозга. 2.\tКровотечение. 3.\tРефлекторное сокращение мышц. 4.\tУшиб мягких тканей. 5.\tСудороги с потерей сознания. 6.\tХруст в костях. 7.\tПотеря сознания сочетается с нарушениями дыхательной и сердечной функции (аритмия, тахикардия). 8.\tНаблюдается состояние клинической смерти.",
+    "image": "",
+    "exam": "7"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "60",
+  "fields": {
+    "text": "Какие вопросы имеют отношение к осмотру места происшествия? Выберите правильные вопросы. 1.\tЕсть ли возможность отключить ток? 2.\tПрисутствует ли дыхание у пострадавшего? 3.\tНаходится ли человек под действием тока в настоящий момент? 4.\tЕсть ли отягчающие обстоятельства: мокрые полы, токопроводящая пыль, оголенные или оборванные провода?  5.\tЕсть ли источники постоянного шума в помещении? 6.\tПрисутствует ли сердечный ритму пострадавшего? 7.\tСколько пострадавших находится в помещении? 8.\t Отключе",
+    "image": "",
+    "exam": "8"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "62",
+  "fields": {
+    "text": "На степень серьезности поражения электрическим током могут повлиять несколько факторов, в том числе: Выберите правильные ответы: 1. Состояние кожи человека. 2. Состояние волосяных покровов. 3. Ушибы кожных покровов 4. Сила тока. 5. Внешние кровотечения. 6. Род тока – переменный ток (AC) или постоянный ток (DC). 7. До какой части тела доходит ток. 8. Изменение цвета кожи человека. 9. Как долго человек находится под воздействием тока. 10. Мощность тока. 11. Сопротивление току.",
+    "image": "",
+    "exam": "10"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "63",
+  "fields": {
+    "text": "Ваши действия при стабилизации дыхания. Выберите правильные ответы:  1.\tЗапрокинуть голову пострадавшему. 2.\tОбеспечить покой.  3.\tПеревернуть на живот пострадавшего. 4.\tДоступ свежего воздуха. 5.\tХолодный компресс на голову. 6.\tРасстегнуть одежду. 7.\tДать выпить горячий кофе. 8.\tДать успокоительное. 9.\tСтабильное боковое положение.",
+    "image": "",
+    "exam": "11"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "64",
+  "fields": {
+    "text": "Составьте алгоритм действий при отсутствии дыхания у пострадавшего. 1.\tУложить пострадавшего на спину. 2.\tЗапрокинуть голову. 3.\tОчистить ротовую полость (при необходимости). 4.\tВыдвинуть нижнюю челюсть вперед. 5.\tВыполнять искусственное дыхание рот-в-рот или рот-в-нос (по ситуации) 12 раз в минуту, или каждые 5 секунд до появления собственного стабильного дыхания, или до приезда Скорой помощи. 6.\tНос закрыть рукой.  7.\tНа рот положить носовой платок или салфетку.",
+    "image": "",
+    "exam": "12"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "65",
+  "fields": {
+    "text": "1.Выберите симптомы остановки сердца: 1.   Потеря сознания. 2.  Ярко красный окрас слизистых оболочек. 3.   Отсутствие пульса на сонных и бедренных артериях. 4.  Сужение зрачков.  5.  Отсутствие сердечных тонов. 6.  Покраснение кожных покровов.  7.  Остановка дыхания.  8.  Бледность или синюшность кожи и слизистых оболочек.  9.  Расширенные зрачки, не суживающиеся под действием света.  10.   Судороги - первый симптом остановки сердца.",
+    "image": "",
+    "exam": "13"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "66",
+  "fields": {
+    "text": "Выберите правильные ответы при проведении СЛР у пострадавшего. 1.  Массаж сердца всегда проводиться с искусственным дыханием, в противном случае реанимация бессмысленна.  2.  Массаж сердца проводиться при отсутствии сердцебиения. Искусственное дыхание проводят при отсутствии дыхания.  3.  Уложить пострадавшего на ровную поверхность. 4.  Встать сбоку и ладонями надавливать на грудину так, чтобы она опускалась на 4-5 см. Частота нажатий — 120 в минуту.",
+    "image": "",
+    "exam": "13"
+  }
+},
+{
+  "model": "exams.question",
+  "pk": "67",
+  "fields": {
+    "text": "Выберите признаки жизни из нижеперечисленных.  1.\tПоявление пульса на сонных, бедренных и лучевых артериях. 2.\tРасширение зрачков.  3.\tПовышение артериального давления до 60-80 мм рт. ст. 4.\tОтсутствие реакции на свет. 5.\t Сужение зрачков и появление реакции их на свет. 6.\tСинюшность кожи. 7.\tИсчезновение синюшной окраски и «мертвенной» бледности. 8.\tСеледочный блеск глаз.  9.\tПоследующее восстановление самостоятельного дыхания.",
+    "image": "",
+    "exam": "14"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "138",
+  "fields": {
+    "text": "2,4,6",
+    "is_correct": "1",
+    "question": "46"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "139",
+  "fields": {
+    "text": "1,2,3",
+    "is_correct": "0",
+    "question": "46"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "140",
+  "fields": {
+    "text": "2,3,5",
+    "is_correct": "0",
+    "question": "46"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "141",
+  "fields": {
+    "text": "1,3,4,6",
+    "is_correct": "1",
+    "question": "47"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "142",
+  "fields": {
+    "text": "2,3,4,5",
+    "is_correct": "0",
+    "question": "47"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "143",
+  "fields": {
+    "text": "1,2,3,5",
+    "is_correct": "0",
+    "question": "47"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "144",
+  "fields": {
+    "text": "1,2,3",
+    "is_correct": "1",
+    "question": "48"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "145",
+  "fields": {
+    "text": "4,5,6",
+    "is_correct": "0",
+    "question": "48"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "146",
+  "fields": {
+    "text": "2,3,4",
+    "is_correct": "0",
+    "question": "48"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "147",
+  "fields": {
+    "text": "1,3,5,6,7,8",
+    "is_correct": "1",
+    "question": "49"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "148",
+  "fields": {
+    "text": "2,3,5,6,7,8",
+    "is_correct": "0",
+    "question": "49"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "149",
+  "fields": {
+    "text": "4,3,5,6,7,8",
+    "is_correct": "0",
+    "question": "49"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "150",
+  "fields": {
+    "text": "1,2,3,4,5,6",
+    "is_correct": "1",
+    "question": "50"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "151",
+  "fields": {
+    "text": "1,2,3,4,7,8",
+    "is_correct": "0",
+    "question": "50"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "152",
+  "fields": {
+    "text": "5, 6,3,4,7,8",
+    "is_correct": "0",
+    "question": "50"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "153",
+  "fields": {
+    "text": "1,2,3,5,6",
+    "is_correct": "1",
+    "question": "51"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "154",
+  "fields": {
+    "text": "1,2,3,5,7",
+    "is_correct": "0",
+    "question": "51"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "155",
+  "fields": {
+    "text": "1,2,3,4,6",
+    "is_correct": "0",
+    "question": "51"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "159",
+  "fields": {
+    "text": "1,3,5,7,8,10",
+    "is_correct": "1",
+    "question": "53"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "160",
+  "fields": {
+    "text": "1,2,9,7,8,10",
+    "is_correct": "0",
+    "question": "53"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "161",
+  "fields": {
+    "text": "1,4,5,6,8,10",
+    "is_correct": "0",
+    "question": "53"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "162",
+  "fields": {
+    "text": "1,3,5,7",
+    "is_correct": "1",
+    "question": "54"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "163",
+  "fields": {
+    "text": "1,2,6,7",
+    "is_correct": "0",
+    "question": "54"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "164",
+  "fields": {
+    "text": "3,4,5,7",
+    "is_correct": "0",
+    "question": "54"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "165",
+  "fields": {
+    "text": "1,2",
+    "is_correct": "1",
+    "question": "55"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "166",
+  "fields": {
+    "text": "3,4",
+    "is_correct": "0",
+    "question": "55"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "167",
+  "fields": {
+    "text": "2,3",
+    "is_correct": "0",
+    "question": "55"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "168",
+  "fields": {
+    "text": "1",
+    "is_correct": "1",
+    "question": "56"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "169",
+  "fields": {
+    "text": "2",
+    "is_correct": "0",
+    "question": "56"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "170",
+  "fields": {
+    "text": "3",
+    "is_correct": "0",
+    "question": "56"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "171",
+  "fields": {
+    "text": "1",
+    "is_correct": "1",
+    "question": "57"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "172",
+  "fields": {
+    "text": "2",
+    "is_correct": "0",
+    "question": "57"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "173",
+  "fields": {
+    "text": "3",
+    "is_correct": "0",
+    "question": "57"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "174",
+  "fields": {
+    "text": "4",
+    "is_correct": "0",
+    "question": "57"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "175",
+  "fields": {
+    "text": "1",
+    "is_correct": "1",
+    "question": "58"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "176",
+  "fields": {
+    "text": "2",
+    "is_correct": "0",
+    "question": "58"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "177",
+  "fields": {
+    "text": "3",
+    "is_correct": "0",
+    "question": "58"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "178",
+  "fields": {
+    "text": "4",
+    "is_correct": "0",
+    "question": "58"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "179",
+  "fields": {
+    "text": "3,5,7,8",
+    "is_correct": "1",
+    "question": "59"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "180",
+  "fields": {
+    "text": "1,6,7,8",
+    "is_correct": "0",
+    "question": "59"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "181",
+  "fields": {
+    "text": "2,4,7,8",
+    "is_correct": "0",
+    "question": "59"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "182",
+  "fields": {
+    "text": "1,3,4,7,8,9",
+    "is_correct": "1",
+    "question": "60"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "183",
+  "fields": {
+    "text": "1,2,4,7,8,9",
+    "is_correct": "0",
+    "question": "60"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "184",
+  "fields": {
+    "text": "1,3,5,6,8,9",
+    "is_correct": "0",
+    "question": "60"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "188",
+  "fields": {
+    "text": "1,4,6,7,9,11",
+    "is_correct": "1",
+    "question": "62"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "189",
+  "fields": {
+    "text": "2,4,5,8,9,11",
+    "is_correct": "0",
+    "question": "62"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "190",
+  "fields": {
+    "text": "3,4,6,7,10,11",
+    "is_correct": "0",
+    "question": "62"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "191",
+  "fields": {
+    "text": "2,4,6,8,9",
+    "is_correct": "1",
+    "question": "63"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "192",
+  "fields": {
+    "text": "1,3,7,8,9",
+    "is_correct": "0",
+    "question": "63"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "193",
+  "fields": {
+    "text": "4,5,6,7,9",
+    "is_correct": "0",
+    "question": "63"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "194",
+  "fields": {
+    "text": "1,2,3,4,7,6,5",
+    "is_correct": "1",
+    "question": "64"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "195",
+  "fields": {
+    "text": "1,2,4,3,7,6,5",
+    "is_correct": "0",
+    "question": "64"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "196",
+  "fields": {
+    "text": "2,1,3,4,7,6,5",
+    "is_correct": "0",
+    "question": "64"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "197",
+  "fields": {
+    "text": "1,3,5,7,8,9,10",
+    "is_correct": "1",
+    "question": "65"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "198",
+  "fields": {
+    "text": "1,2,5,7,8,9,10",
+    "is_correct": "0",
+    "question": "65"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "199",
+  "fields": {
+    "text": "1,3,4,6,8,9,10",
+    "is_correct": "0",
+    "question": "65"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "200",
+  "fields": {
+    "text": "1,3",
+    "is_correct": "1",
+    "question": "66"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "201",
+  "fields": {
+    "text": "2,4",
+    "is_correct": "0",
+    "question": "66"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "202",
+  "fields": {
+    "text": "1,4",
+    "is_correct": "0",
+    "question": "66"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "203",
+  "fields": {
+    "text": "1,3,5,7,9",
+    "is_correct": "1",
+    "question": "67"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "204",
+  "fields": {
+    "text": "1,2,6,7,8",
+    "is_correct": "0",
+    "question": "67"
+  }
+},
+{
+  "model": "exams.variant",
+  "pk": "205",
+  "fields": {
+    "text": "2,4,6,7,9",
+    "is_correct": "0",
+    "question": "67"
+  }
+}
+]
